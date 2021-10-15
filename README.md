@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/do-Va/do-Va/blob/main/Hi.gif" width="100px">
 
 I am a knowledge-hungry person who tries to learn new things and improve herself every day, albeit a little late.
 
