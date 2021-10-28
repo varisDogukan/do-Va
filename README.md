@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-Va&layout=compact&theme=nord)](https://github.com/do-Va/github-readme-stats)
 
 
-<a href="https://app.daily.dev/doVa"><img src="https://api.daily.dev/devcards/e7c742fdb48a4b91b323ebb4f61968d1.png?r=cp7" width="400" alt="doVa's Dev Card"/></a>
+<a href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/master/devcard.svg" width="400" alt="doVa's Dev Card"/></a>
