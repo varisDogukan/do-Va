@@ -3,7 +3,7 @@
 
 I am a knowledge-hungry person who tries to learn new things and improve herself every day, albeit a little late. 
 
-<a href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/devcard/devcard.svg" align='right' width="300" alt="doVa's Dev Card"/></a>
+<a href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/devcard/devcard.svg" align='right' width="350" alt="doVa's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
