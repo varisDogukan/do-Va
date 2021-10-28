@@ -3,8 +3,6 @@
 
 I am a knowledge-hungry person who tries to learn new things and improve herself every day, albeit a little late. 
 
-<a href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/devcard/devcard.svg" align='right' width="350" alt="doVa's Dev Card"/></a>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving myself.
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-Va&layout=compact&theme=nord)](https://github.com/do-Va/github-readme-stats)
 
   
+<a href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/devcard/devcard.svg" align='right' width="350" alt="doVa's Dev Card"/></a>
