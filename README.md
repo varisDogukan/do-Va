@@ -7,7 +7,7 @@
  Here are some ideas to get you started:
 
  - 🔭 I’m currently working on improving myself.
- - 🌱 I’m currently learning Css(Sass) and JavaScript(React and NodeJs).
+ - 🌱 I’m currently learning Css(Sass) and JavaScript(React).
  </div>
 
 
