@@ -2,7 +2,7 @@
  <div align='left'>
  <h1>Hi there <img src="https://github.com/do-Va/do-Va/blob/main/Hi.gif" width="100px"> </h1>
 
- I am a knowledge-hungry person who tries to learn new things and improve herself every day, albeit a little late. 
+ I am a knowledge-hungry person who tries to learn new things and improve himself every day, albeit a little late. 
 
  Here are some ideas to get you started:
 
