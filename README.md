@@ -75,14 +75,5 @@
   <p>
    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=do-va&show_icons=true&locale=en&layout=compact&theme=nord" alt="do-va" />
  </p>
- 
- #
- 
-  <p>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=do-Va&" alt="do-Va" />
- </p>
- <p>
-  <img  href="https://app.daily.dev/doVa"><img src="https://github.com/do-Va/do-Va/blob/devcard/devcard.svg" width="400" alt="doVa's Dev Card"/>
- </p>
 
 </div>
