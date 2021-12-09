@@ -1,8 +1,11 @@
-![](https://komarev.com/ghpvc/?username=do-Va&label=Views&style=flat-square)
+
+[![Visitor Counter for do-Va](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=do-Va)](https://pimp-my-readme.webapp.io)
 <div align='center'>
  <div align='left'>
   
-  <h1>Hi there <img src="https://github.com/do-Va/do-Va/blob/main/Hi.gif" width="100px"></h1>
+  [![Welcome !!!, It's good to see you.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=It%27s%20good%20to%20see%20you.&title=Welcome%20%21%21%21)](https://pimp-my-readme.webapp.io)
+  
+  [![Hey, I'm Doğukan!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=Hey%252C%2520I%27m%2520Do%25C4%259Fukan%21)](https://pimp-my-readme.webapp.io)
 
   I am a knowledge-hungry person who tries to learn new things and improve himself every day, albeit a little late. 
 
