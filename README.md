@@ -1,6 +1,7 @@
 
-[![Visitor Counter for do-Va](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=do-Va)](https://pimp-my-readme.webapp.io)
+
 <div align='center'>
+
  <div align='left'>
   
   [![Welcome !!!, It's good to see you.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=It%27s%20good%20to%20see%20you.&title=Welcome%20%21%21%21)](https://pimp-my-readme.webapp.io)
