@@ -52,15 +52,7 @@
  
  </p>
  
-#
- 
- 
 
-  <a>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=do-Va&show_icons=true&theme=nord" alt="do-va" width="50%" />
- </a>  
-  <a>
-   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=do-va&show_icons=true&locale=en&layout=compact&theme=nord" alt="do-va" width="42%"/>
- </a>
+ 
 
 </div>
