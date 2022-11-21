@@ -25,6 +25,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> 
   </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.svgrepo.com/show/368858/nextjs.svg" alt="next" width="50" height="50"/> 
+  </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
    <img src="https://www.svgrepo.com/show/354274/redux.svg" alt="redux" width="50" height="50"/> 
   </a>   
